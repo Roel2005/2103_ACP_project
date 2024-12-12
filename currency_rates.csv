@@ -1,0 +1,33 @@
+Currency,Country,Rate
+USD,United States,1
+EUR,Eurozone,0.92
+GBP,United Kingdom,0.78
+JPY,Japan,136.5
+INR,India,82.4
+AUD,Australia,1.47
+CAD,Canada,1.36
+CNY,China,7.1
+ZAR,South Africa,18.2
+BRL,Brazil,4.9
+MXN,Mexico,17.5
+CHF,Switzerland,0.9
+RUB,Russia,97.8
+SAR,Saudi Arabia,3.75
+SGD,Singapore,1.35
+NZD,New Zealand,1.6
+SEK,Sweden,10.9
+NOK,Norway,11
+DKK,Denmark,6.9
+KRW,South Korea,1300
+HKD,Hong Kong,7.85
+TBH,Thailand,35.2
+PHP,Philippines,56.8
+IDR,Indonesia,15000
+MYR,Malaysia,4.4
+TRY,Turkey,28.9
+EGP,Egypt,30.9
+ARS,Argentina,349
+COP,Colombia,4400
+NGN,Nigeria,785
+KES,Kenya,145
+GHS,Ghana,12.5
